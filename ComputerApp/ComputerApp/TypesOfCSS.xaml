@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Types of CSS"
+             x:Class="ComputerApp.TypesOfCSS">
+    <ContentPage.Content>
+        <StackLayout>
+            <WebView x:Name="webBrowser" Source="https://drive.google.com/file/d/1EKDeVadR3hHRAEpE9sLpAEo4diCUyqvI/view?usp=sharing" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

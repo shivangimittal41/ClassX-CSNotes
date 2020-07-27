@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             NavigationPage.HasNavigationBar="False"
+             
+           
+             x:Class="ComputerApp.MainPage">
+
+    <!--<Grid RowSpacing="2" ColumnSpacing="2" BackgroundColor="#d8dde6">
+        <Grid.RowDefinitions>
+            <RowDefinition  />
+            <RowDefinition />
+            <RowDefinition  />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+
+    </Grid>-->
+    <ScrollView>
+        <StackLayout Padding="5,5,5,5" Margin="0,5,0,0" BackgroundColor="White">
+            <Image Source="img.png" WidthRequest="120" HeightRequest="120" />
+            <Label Text="Computer Applications Class X (Code 165)" TextColor="Black" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Start"></Label>
+
+            <Button Text="CSS Notes" 
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="FillAndExpand" Margin="0,-30,0,-120"
+                Clicked="CSS_clicked" BackgroundColor="#EF7928" TextColor="White"  />
+            <Button Text="Types of CSS"
+                VerticalOptions="CenterAndExpand" FontSize="Large" 
+                HorizontalOptions="FillAndExpand" Margin="0,0,0,-120"
+                Clicked="CSS2_clicked"  BackgroundColor="#E7AC1B" TextColor="White"/>
+            <Button Text="HTML Form" 
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="FillAndExpand" Margin="0,0,0,-120"
+                Clicked="HTMLForm_Clicked" BackgroundColor="#DE2626" TextColor="White" />
+            <Button Text="HTML Notes" 
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="FillAndExpand" Margin="0,0,0,-120"
+                Clicked="HTML_Clicked" BackgroundColor="#ABA603" TextColor="White" />
+            <Button Text="Cyber Ethics" 
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="FillAndExpand" Margin="0,0,0,-120"
+                Clicked="Cyber_Clicked" BackgroundColor="#1054B6" TextColor="White" />
+            <Button Text="Networking" 
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="FillAndExpand"
+                Clicked="Network_Clicked" BackgroundColor="#710D94" TextColor="White" />
+        </StackLayout>
+    </ScrollView>
+   
+</ContentPage>
