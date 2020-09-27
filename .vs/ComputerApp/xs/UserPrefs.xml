@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{31104E86-507D-4BD0-8A2E-FE6DD1C94DCB}|Default">
+  <MonoDevelop.Ide.ItemProperties.ComputerApp.Android PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComputerApp/ComputerApp.Android/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="ComputerApp/ComputerApp/CSSNotes.xaml" Line="12" Column="1" />
+      <File FileName="ComputerApp/ComputerApp.Android/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComputerApp" expanded="True">
+            <Node name="ComputerApp.Android" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

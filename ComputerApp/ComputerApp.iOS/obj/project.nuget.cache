@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUVIONIAhNwI1AI6uoRfpk/QN8PdVls5tttXONpxQv5kqo8RWCDFaQA7Kr94e+OUHhAtBtRNpYDFxG4nr5xfag==",
+  "success": true,
+  "projectFilePath": "/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.iOS/ComputerApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/smittal/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/smittal/.nuget/packages/xamarin.essentials/1.2.0/xamarin.essentials.1.2.0.nupkg.sha512",
+    "/Users/smittal/.nuget/packages/xamarin.forms/4.2.0.709249/xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
