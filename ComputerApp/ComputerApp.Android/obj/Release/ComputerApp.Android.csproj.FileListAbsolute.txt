@@ -1,10 +1,5 @@
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/ComputerApp.Android.dll
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/ComputerApp.Android.pdb
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.companyname.computerapp.apk
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.companyname.computerapp.aab
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.companyname.computerapp-Signed.aab
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.companyname.computerapp-Signed.apk
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.companyname.computerapp-Signed.apk.idsig
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/ComputerApp.dll
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/ComputerApp.pdb
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
@@ -19,10 +14,7 @@
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/ComputerApp.Android.csproj.CopyComplete
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/ComputerApp.Android.dll
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/ComputerApp.Android.pdb
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.companyname.computerapp.apk
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/base.zip
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.companyname.computerapp.aab
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.companyname.computerapp.apks
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/res/layout/tabbar.xml
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/res/layout/toolbar.xml
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/res/values/styles.xml
@@ -338,7 +330,6 @@
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/src/mono/android/support/v7/widget/Toolbar_OnMenuItemClickListenerImplementor.java
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/src/mono/MonoPackageManager_Resources.java
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/packaged_resources
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/src/com/companyname/computerapp/R.java
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/compressed_assemblies.armeabi-v7a.s
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/compressed_assemblies.arm64-v8a.s
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/typemaps.armeabi-v7a.o
@@ -357,3 +348,13 @@
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/stamp/_GenerateJavaStubs.stamp
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/stamp/_GeneratePackageManagerJava.stamp
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/stamp/_ResolveLibraryProjectImports.stamp
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/src/com/shivangimittal/computerapp/apk/R.java
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp.apk
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp.aab
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp-Signed.aab
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp-Signed.apk
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp-Signed.apk.idsig
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.ShivangiMittal.computerapp.apk
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.ShivangiMittal.computerapp.aab
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.ShivangiMittal.computerapp.apks
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/src/com/shivangimittal/computerapp/R.java
