@@ -348,7 +348,6 @@
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/stamp/_GenerateJavaStubs.stamp
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/stamp/_GeneratePackageManagerJava.stamp
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/stamp/_ResolveLibraryProjectImports.stamp
-/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/src/com/shivangimittal/computerapp/apk/R.java
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp.apk
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp.aab
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/bin/Release/com.ShivangiMittal.computerapp-Signed.aab
@@ -358,3 +357,15 @@
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.ShivangiMittal.computerapp.aab
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/bin/com.ShivangiMittal.computerapp.apks
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/android/src/com/shivangimittal/computerapp/R.java
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/ComputerApp.Android.csprojAssemblyReference.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/12/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/13/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/17/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/19/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/26/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/30/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/32/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/33/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/34/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/38/jl/files.cache
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp.Android/obj/Release/lp/39/jl/files.cache

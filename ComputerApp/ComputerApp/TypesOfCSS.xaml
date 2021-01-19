@@ -8,7 +8,7 @@
              x:Class="ComputerApp.TypesOfCSS">
     <ContentPage.Content>
         <StackLayout>
-            <WebView x:Name="webBrowser" Source="https://drive.google.com/file/d/1EKDeVadR3hHRAEpE9sLpAEo4diCUyqvI/view?usp=sharing" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+            <WebView x:Name="webBrowser" Source="https://drive.google.com/file/d/1UAftezpSN3q1SrQpimLty1IBNnA88rBK/view?usp=sharing" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
 
         </StackLayout>
     </ContentPage.Content>

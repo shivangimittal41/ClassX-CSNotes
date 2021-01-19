@@ -64,7 +64,7 @@
 
 	/* 4: Mono.Android.dll */
 	/* uncompressed_file_size */
-	.long	1821184
+	.long	1836544
 	/* loaded */
 	.byte	0
 	/* data */
@@ -523,7 +523,7 @@
 
 	/* 55: mscorlib.dll */
 	/* uncompressed_file_size */
-	.long	2051072
+	.long	2051584
 	/* loaded */
 	.byte	0
 	/* data */

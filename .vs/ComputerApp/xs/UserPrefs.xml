@@ -1,24 +1,31 @@
 ﻿<Properties StartupConfiguration="{31104E86-507D-4BD0-8A2E-FE6DD1C94DCB}|Default">
-  <MonoDevelop.Ide.ItemProperties.ComputerApp.Android PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.ItemProperties.ComputerApp.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="ComputerApp/ComputerApp.Android/Properties/AndroidManifest.xml" />
       <File FileName="ComputerApp/ComputerApp.Android/Properties/AssemblyInfo.cs" Line="1" Column="1" />
       <File FileName="ComputerApp/ComputerApp.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="ComputerApp/ComputerApp/App.xaml.cs" />
+      <File FileName="ComputerApp/ComputerApp/MainPage.xaml" />
+      <File FileName="ComputerApp/ComputerApp/MainPage.xaml.cs" />
+      <File FileName="ComputerApp/ComputerApp/HTMKForm.xaml.cs" />
+      <File FileName="ComputerApp/ComputerApp/HTMKForm.xaml" />
+      <File FileName="ComputerApp/ComputerApp/AssemblyInfo.cs" />
+      <File FileName="ComputerApp/ComputerApp/HTMLNotes.xaml" />
+      <File FileName="ComputerApp/ComputerApp/TypesOfCSS.xaml" Line="11" Column="132" />
+      <File FileName="ComputerApp/ComputerApp/CSSNotes.xaml" Line="11" Column="132" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ComputerApp" expanded="True">
+            <Node name="ComputerApp" expanded="True" />
             <Node name="ComputerApp.Android" expanded="True" selected="True">
               <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

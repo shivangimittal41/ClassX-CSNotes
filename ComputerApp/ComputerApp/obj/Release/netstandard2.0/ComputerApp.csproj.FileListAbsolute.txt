@@ -17,3 +17,4 @@
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp/obj/Release/netstandard2.0/ComputerApp.dll
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp/obj/Release/netstandard2.0/ref/ComputerApp.dll
 /Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp/obj/Release/netstandard2.0/ComputerApp.pdb
+/Users/smittal/Documents/GitHub/ClassX-CSNotes/ComputerApp/ComputerApp/obj/Release/netstandard2.0/ComputerApp.csprojAssemblyReference.cache
