@@ -8,7 +8,7 @@
              x:Class="ComputerApp.CyberEthics">
     <ContentPage.Content>
         <StackLayout>
-            <WebView x:Name="webBrowser" Source="https://drive.google.com/file/d/1SY9otIAr80d03HOrHPmvNwBqpoFkz-4k/view?usp=sharing" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+            <WebView x:Name="webBrowser" Source="https://drive.google.com/file/d/1O1TsDPOy47EuAAC6kU2uQeQFksL-OInN/view?usp=sharing" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
 
         </StackLayout>
     </ContentPage.Content>

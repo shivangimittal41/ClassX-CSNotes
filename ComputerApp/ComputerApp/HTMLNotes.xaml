@@ -8,7 +8,7 @@
              x:Class="ComputerApp.HTMLNotes">
     <ContentPage.Content>
         <StackLayout>
-            <WebView x:Name="webBrowser" Source="https://drive.google.com/file/d/1GGe-7vRCB-TqJDUy6B27rbCH3SS6LGdU/view?usp=sharing" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+            <WebView x:Name="webBrowser" Source="https://drive.google.com/file/d/1ng8X9GZnkY6RXfZApxCMzf38JjEu4Rl3/view?usp=sharing" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
 
         </StackLayout>
     </ContentPage.Content>
